@@ -1,5 +1,5 @@
 <?php
 
-echo "Configurando o primeiro repositório git.";
+echo "Olá, mundo!";
 
 ?>
